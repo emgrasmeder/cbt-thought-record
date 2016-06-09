@@ -1,0 +1,32 @@
+{
+  "prompts": [
+		{
+			"prompt": "Where were you?",
+			"subprompt": "Where were you? What were you doing? Who were you with?"
+		},
+		{
+			"prompt": "Emotion or feeling",
+			"subprompt": "Emotions can be described with one word. E.g.: angry, sad, scared. Rate 0-100%"
+		},
+		{
+			"prompt": "Negative automatic thought",
+			"subprompt": "What thoughts were going through your mind? What memories or images were in my mind?"
+		},
+		{
+			"prompt": "Evidence that supports the thought",
+			"subprompt": "What facts support the truthfulness of this thought or image?"
+		},
+		{
+				"prompt": "Evidence that does not support the thought",
+			"subprompt": "What experiences indicate that this thought is not completely true all the time? If my best friend had this thought what would I tell them? Are there any small experiences which contradict this thought? Could I be jumping to conclusions?"
+		},
+		{
+			"prompt": "Alternative thought",
+			"subprompt": "Write a new thought which takes into account the evidence for and against the original thought"
+		},
+		{
+			"prompt": "Emotion or feeling",
+			"subprompt": "How do you feel about the situation now? Rate 0-100%"
+		}
+	]
+}
